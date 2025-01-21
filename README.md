@@ -1,7 +1,7 @@
 ## Pós-Graduação em Inteligência Artificial para Devs- FIAP
 ### PÓS TECH FIAP 3IADT – GRUPO 11 - 2024
 
-Link do video: https://youtu.be/Js9t57HwBPc
+Link do video: https://www.youtube.com/watch?v=tG2rSADColY
 
 ## Descrição do Problema
 
