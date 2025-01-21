@@ -1,6 +1,8 @@
 ## Pós-Graduação em Inteligência Artificial para Devs- FIAP
 ### PÓS TECH FIAP 3IADT – GRUPO 11 - 2024
 
+Link do video: https://youtu.be/Js9t57HwBPc
+
 ## Descrição do Problema
 
 O Problema do Caixeiro Viajante (PCV) é um problema clássico de otimização onde precisamos encontrar a menor rota possível que visite cada cidade exatamente uma vez e retorne à cidade inicial.
